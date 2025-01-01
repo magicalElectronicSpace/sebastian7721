@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 # Website
 
-I have my own website called Skypi. You cah visit it (or go back to it if you came here from it's book), clik [here](https://skypi.club)
+I have my own website called Skypi. You can visit it (or go back to it if you came here from it's book), clik [here](https://skypi.club)
 
 
 

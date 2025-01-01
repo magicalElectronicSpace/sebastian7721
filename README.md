@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sebastian7721
+- 👋 Hi, I’m @magicalElectronicSpace
 - 🌮 My favorite food is tacos!
 - ♟️ I love to play chess!
 - 📞❌ I don't have a phone.

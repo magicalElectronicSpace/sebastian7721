@@ -19,7 +19,7 @@ I used to use my dad's account, but now I use mine!
 
 # Website
 
-I have my own website called Skypi. You can visit it (or go back to it if you came here from it's book), clik [here](https://skypi.club).
+I have my own website called Skypi. You can visit it (or go back to it if you came here from it's book), click [here](https://skypi.club).
 
 
 
